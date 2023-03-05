@@ -498,7 +498,7 @@
   font-weight: 600;
   background: transparent;
   color: white;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   font-weight: 700;
   -webkit-transform-origin: left center;
           transform-origin: left center;
